@@ -1,0 +1,2 @@
+Pride and Prejudice,http://www.gutenberg.org/cache/epub/1342/pg1342.txt
+The Yellow Wallpaper,http://www.gutenberg.org/cache/epub/1952/pg1952.txt
